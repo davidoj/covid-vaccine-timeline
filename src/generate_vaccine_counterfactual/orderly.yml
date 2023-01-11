@@ -60,6 +60,10 @@ artefacts:
       filenames:
         - shifts_plots/GBR.png
         - shifts_plots/USA.png
+  - staticgraph:
+      description: Cumulative total vaccines in counterfactual scenarios
+      filenames:
+        - cumulative_counterfactuals.png
 
 # An optional name to describe the report in more detail than its
 # directory name (which must be short) but less detail than
